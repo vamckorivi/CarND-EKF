@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/vamckorivi/vamc/ML/Term 2/CarND-Unscented-Kalman-Filter-Project-master/src"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vamckorivi/vamc/ML/Term 2/CarND-Unscented-Kalman-Filter-Project-master/src/cmake-build-debug
